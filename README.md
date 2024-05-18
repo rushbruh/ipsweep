@@ -5,4 +5,4 @@ git clone https://github.com/rushbruh/ipsweep/
 
 cd ipsweep
 
-bash ipsweep.sh 192.168.1
+bash ipsweep.sh 
