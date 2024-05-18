@@ -1,6 +1,6 @@
 # IPsweep
 
-### Instation 
+## Instation 
 git clone https://github.com/rushbruh/ipsweep/
 
 cd ipsweep
